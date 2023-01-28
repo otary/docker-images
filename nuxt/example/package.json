@@ -1,0 +1,12 @@
+{
+  "name": "otary-nuxt",
+  "version": "1.0.0",
+  "description": "otary nuxt project",
+  "author": "chenzw <656469722@qq.com>",
+  "private": true,
+  "dependencies": {
+    "start": "nuxt start"
+  },
+  "devDependencies": {
+  }
+}
